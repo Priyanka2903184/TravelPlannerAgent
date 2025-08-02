@@ -63,7 +63,7 @@ Design a smart agent that can generate personalized travel itineraries using IBM
 
 - 🔗 [IBM Watsonx Studio](https://dataplatform.cloud.ibm.com/)
 - 🔗 [IBM Cloud](https://cloud.ibm.com)
-- 🔗 [Granite Model Info]([https://www.ibm.com/blog/granite-model-family](https://www.ibm.com/granite/docs/))
+- 🔗[Granite Model Info](https://www.ibm.com/granite/docs/)
 
 ---
 
