@@ -1,4 +1,4 @@
-# TravelPlannerAgent
+
 # 🌍 Travel Planner Agent
 
 An AI-powered assistant that generates custom travel itineraries based on user inputs such as destination, number of days, and budget. Built using IBM Watsonx.ai's Prompt Lab with Granite Foundation Models under the IBM Cloud Lite plan — no coding required!
